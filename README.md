@@ -7,6 +7,6 @@ The main steps undertaken for this project are as follows:
 
 1) Importing correct packages and ML models to be used
 
-2)Data Preprocessing
+2) Data Preprocessing
 
-3)Run Support Vector Machine Classifier ML model and predict whether the patient is diabetic or not.
+3) Run Support Vector Machine Classifier ML model and predict whether the patient is diabetic or not.
